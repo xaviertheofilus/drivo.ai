@@ -37,3 +37,4 @@ Thumbs.db
 .vercel
 node_modules/
 frontend/node_modules/
+myenv/
