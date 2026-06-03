@@ -1,0 +1,37 @@
+# DrivoAI Backend — Python 3.12+
+
+fastapi>=0.110.0
+uvicorn[standard]>=0.25.0
+pydantic>=2.5.0
+python-dotenv>=1.0.0
+
+# Auth
+bcrypt>=4.1.0
+PyJWT>=2.8.0
+
+# File parsing
+PyMuPDF>=1.24.0
+python-docx>=1.1.0
+
+# Supabase
+supabase>=2.4.0
+realtime>=1.0.0
+
+# Vector Database
+pinecone>=5.0.0
+
+# LLM & Embedding
+anthropic>=0.25.0
+openai>=1.20.0
+langfuse>=2.0.0
+
+# Monitoring & Analysis
+matplotlib>=3.8.0
+pandas>=2.1.0
+
+# Utils
+python-multipart>=0.0.9
+email-validator>=2.1.0
+
+# ElevenLabs Agents
+elevenlabs>=1.0.0
